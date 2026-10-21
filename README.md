@@ -12,6 +12,9 @@ Proyecto original: https://github.com/vxcontrol/pentagi (30.858 estrellas, consu
 
 ---
 
+
+Apoyo y más: [GitHub Sponsors](https://github.com/sponsors/Ezra-Zhao) · [Gumroad — plantillas y cuadernos que uso](https://ezraflow28.gumroad.com) · [Ko-fi](https://ko-fi.com/ezra777zhao)
+
 ## 🇪🇸 Español
 
 ### Qué es
