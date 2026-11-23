@@ -1,5 +1,7 @@
 # 🛡️ Guía rápida: PentAGI — pentesting autónomo con agentes, solo con autorización (ES · PT)
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 Una sola página para usar **PentAGI** (de VXControl): qué es, cómo se instala, cómo se lanza una prueba autorizada paso a paso, dónde mirar los resultados y la línea roja legal que no se cruza nunca.
 
 **Autor:** Guangyi Zhao · Octubre 2026
